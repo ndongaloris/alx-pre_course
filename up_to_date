@@ -1,0 +1,9 @@
+git rm -r 
+git add 
+git chechout master
+git push origin update_script
+git commint -m "message"
+git echo > filename
+git branch
+git status
+git checkout -b branch name
